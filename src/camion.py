@@ -1,1 +1,4 @@
-print("Hugo guapo")
+PANTALLA_ANCHO = 160
+PANTALLA_ALTO = 120
+MARIO_X = 120
+LUIGI_X = 120
